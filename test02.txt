@@ -1,2 +1,3 @@
 sdfaf
+jdk12ÏÂÔØµØÖ·
 https://www.oracle.com/java/technologies/javase/jdk12-archive-downloads.html
